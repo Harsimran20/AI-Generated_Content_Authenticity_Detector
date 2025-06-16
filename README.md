@@ -24,8 +24,7 @@ As generative AI becomes increasingly sophisticated, distinguishing between huma
 | Category           | Tools/Technologies                         |
 |-------------------|--------------------------------------------|
 | 📄 Text Analysis   | TF-IDF, Logistic Regression, BERT          |
-| 🧠 ML Frameworks   | Scikit-learn, HuggingFace Transformers     |
-| 🌐 Web Interface   | Streamlit, Flask (optional API)            |
+| 🧠 ML Frameworks   | Scikit-learn, HuggingFace Transformers     |         
 | 🗃️ Data Sources     | OpenAI, Reddit, Human-Written Corpora      |
 | 💾 Model Saving    | Joblib                                     |
 | 📊 Visualization   | Matplotlib, SHAP (for explainability)      |
